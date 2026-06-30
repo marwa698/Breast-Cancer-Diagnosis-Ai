@@ -8,10 +8,6 @@ __pycache__/
 venv/
 env/
 
-# Models
-models/*.pkl
-models/*.pth
-
 # Data
 data/mammogram_images/
 
